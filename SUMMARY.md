@@ -21,5 +21,7 @@
   * [Constructors and pattern matching](constructors.md)
   * [Type polymorphism](polymorphism.md)
 * [Advanced types](advanced_types.md)
+* [Libraries](libraries.md)
+* [Calling C Functions](calling-c-functions.md)
 * [FAQ](faq.md)
 
